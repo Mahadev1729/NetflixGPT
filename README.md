@@ -10,13 +10,21 @@ Currently, two official plugins are available:
 
 "# NetflixGPT" 
 1. create react App
+
+
 2.Configures tailwindcss
 
+rafce-- recat array function component export
 
 Features:
   -- header
-  -- background movie player
-  -- trailer in background
-  -- title in Description
-  -- movie list {movie suggestion}
-  -- Authentication
+    -- background movie player
+    -- trailer in background
+    -- title in Description
+    -- movie list {movie suggestion}
+    -- Authentication
+
+  --- NetflixGPT
+     - Search bar 
+     - Movie suggestion
+     

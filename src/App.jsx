@@ -1,3 +1,4 @@
+import Login from "./components/Login";
 
 
 
@@ -5,12 +6,11 @@
 
 function App() {
   return(
-    <div className="text-3xl text-green-800">
-    Hello
-
-    Let 
-    </div>
+  <>
+    <Login/>
+  </>
+    
   )
 }
 
-export default App
+export default App;
