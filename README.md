@@ -28,3 +28,4 @@ Features:
      - Search bar 
      - Movie suggestion
      
+1. create Routing in Body component
