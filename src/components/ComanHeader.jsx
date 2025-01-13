@@ -1,11 +1,12 @@
 
-const ComanHeader = () =>{
-    return(
-        <div className="absolute">
-        < img 
-        className="w-44 px-8 py-2 bg-grandient-to-b from-black "
-        src="https://seeklogo.com/images/W/watchbox-logo-C250155019-seeklogo.com.png" alt="logo"/>
+const ComanHeader = () => {
+    return (
+        <div class="absolute text-red-800 px-8 py-5 text-7xl font-black">
+            <span class="uppercase tracking-wide drop-shadow-lg">
+                WATCHBOX
+            </span>
         </div>
+
     )
 }
 export default ComanHeader;
