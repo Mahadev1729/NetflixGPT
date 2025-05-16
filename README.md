@@ -24,10 +24,17 @@ React+vite+tailwindcss:
 
 
 ## features:
+after verification of user authentication 
+   --login/signup page
+      -- Sign in/Sign up form
+      -- redirect to browse page
    --- Browse page:
        --- header
        --- Main movie
          --- trailer in background
          --- Tittle description
          --- movie suggestion
-            --- Movie list
+            --- Movie list 
+   --- NetflixGPT
+       --- Search Bar 
+       --- Movie suggestion         
