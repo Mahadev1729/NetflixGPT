@@ -13,9 +13,21 @@ If you are developing a production application, we recommend using TypeScript wi
 "# NetflixGPT" 
 Requirment for project setup:
 
-React+vite:
+React+vite+tailwindcss:
   cmd
       npm create vite@latest netflix-gpt -- --template react
       cd netflix-gpt
       npm install
       npm run dev
+  cmd 
+      npm install tailwindcss @tailwindcss/vite
+
+
+## features:
+   --- Browse page:
+       --- header
+       --- Main movie
+         --- trailer in background
+         --- Tittle description
+         --- movie suggestion
+            --- Movie list
